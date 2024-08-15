@@ -1,16 +1,22 @@
-## Hi there 👋
-
-<!--
-**quiroga360/quiroga360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+  <tr>
+    <td>
+      <picture>
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=quiroga360&show_icons=true&theme=midnight-purple"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+      </picture>
+    </td>
+    <td>
+      <a href="https://github.com/quiroga360/github-readme-stats">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=quiroga360&theme=midnight-purple" />
+      </a>
+    </td>
+  </tr>
+</table>
